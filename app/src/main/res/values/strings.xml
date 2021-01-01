@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KReference - WEB References</string>
+    <string name="new_reference">New Reference</string>
+    <string name="reference_detail">REFERENCE DETAIL</string>
+    <string name="id">ID</string>
+    <string name="description">Description</string>
+    <string name="url">URL</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="start_date">Start date</string>
+    <string name="metadata">Metadata</string>
+    <string name="home">Home</string>
+    <string name="importer">Import</string>
+    <string name="export">Export</string>
+    <string name="about">About</string>
+    <string name="view_reference">VIEW REFERENCE</string>
+    <string name="Author">Alex Lleida - Barcelona 2021</string>
+    <string name="About_Title">ABOUT KREFERENCE</string>
+    <string name="About_Acknowledgment">Icon made from http://www.onlinewebfonts.com/icon Icon Fonts is licensed by CC BY 3.0</string>
+    <string name="Button_exit">Exit</string>
+    <string name="About_NameApplication">KReference - Reference Management</string>
+</resources>
