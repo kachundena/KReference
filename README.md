@@ -8,6 +8,11 @@ Is a simple reference management system.
 - SQLite
 - Android Tag Group 
 
+# Installation
+
+- This application need a directory at root. this directory called **kreference**. It's necessary for import and export functionality.
+
+
 # Release History
 
 * 1.0.2
